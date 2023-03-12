@@ -1,4 +1,4 @@
-# canva-design
+# Welcome to MAVIE GAMES
 
 ![image](https://user-images.githubusercontent.com/98544175/224566542-d2149f8c-8538-469f-92e7-d3eae1adbbc7.png)
 ![image](https://user-images.githubusercontent.com/98544175/224566664-288e0b0a-8688-4be1-b1d7-0f0027bf7e44.png)
